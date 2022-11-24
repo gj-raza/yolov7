@@ -1,0 +1,5 @@
+train: /home/gjraza/ppe-det_zesh/Yolov5_DeepSort_Pytorch/PPE-detection3.v7-640-padded-resize-noaug-2022-02-08-yolov5pytorch/train/images
+val: /home/gjraza/ppe-det_zesh/Yolov5_DeepSort_Pytorch/PPE-detection3.v7-640-padded-resize-noaug-2022-02-08-yolov5pytorch/valid/images
+
+nc: 3
+names: ['object', 'person', 'vest']

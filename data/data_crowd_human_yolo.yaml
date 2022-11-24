@@ -1,0 +1,5 @@
+train: /my_data/datasets/crowd_human_yolo/train/images
+val: /my_data/datasets/crowd_human_yolo/valid/images
+
+nc: 2
+names: ['person', 'head']
